@@ -5,7 +5,7 @@ from copy import copy
 
 
 class ConfigManager:
-    
+
     def __init__(self, file: str):
         self.__config = {}
 
